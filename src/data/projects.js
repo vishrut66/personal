@@ -32,7 +32,7 @@ const data = [
     date: '2022-09-23',
   },
   {
-    title: 'Lottery Dapp',
+    title: 'ENS Dapp',
     link: 'https://domains-dapp-dns.vercel.app/',
     image: '/images/projects/dns.png',
     date: '2022-10-12',
