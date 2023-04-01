@@ -8,6 +8,26 @@ const skills = [
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
+    title: 'Solidity',
+    competency: 4,
+    category: ['Blockchain', 'Languages'],
+  },
+  {
+    title: 'Hardhat',
+    competency: 3,
+    category: ['Blockchain', 'Tool'],
+  },
+  {
+    title: 'Ether-js',
+    competency: 4,
+    category: ['Blockchain', 'Tool'],
+  },
+  {
+    title: 'Web3-js',
+    competency: 4,
+    category: ['Blockchain', 'Tool'],
+  },
+  {
     title: 'Node.JS',
     competency: 4,
     category: ['Web Development', 'Javascript'],
