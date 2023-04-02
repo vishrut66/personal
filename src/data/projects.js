@@ -37,6 +37,12 @@ const data = [
     image: '/images/projects/dns.png',
     date: '2022-10-12',
   },
+  {
+    title: 'Get ERC20 from wallte',
+    link: 'https://get-all-erc-20-from-wallet.vercel.app/',
+    image: '/images/projects/ERC20.jpg',
+    date: '2023-04-01',
+  },
 ];
 
 export default data;
